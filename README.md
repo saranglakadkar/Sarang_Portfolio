@@ -79,13 +79,14 @@ npm start
 
 ## 🙋‍♂️ Contact
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sarang-lakadkar/) or via <a href="https://mail.google.com/mail/u/0/#inbox?compose=newto=lakadkarsarang@gmail.com" target="_blank">Email</a>.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sarang-lakadkar/) or via <a href="mailto:lakadkarsarang@gmail.com">Email</a>
+
 
 
 
 ---
 
-> Designed & built with ❤️ by *Amol Gavit*
+> Designed & built with ❤️ by *Sarang Lakadkar*
 
 
 
