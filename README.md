@@ -79,7 +79,7 @@ npm start
 
 ## 🙋‍♂️ Contact
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/amolgavit26/) or via <a href="https://mail.google.com/mail/?view=cm&fs=1&to=amolgavit158121@gmail.com" target="_blank">Email</a>.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sarang-lakadkar/) or via <a href="https://mail.google.com/mail/?view=cm&fs=1&to=amolgavit158121@gmail.com" target="_blank">Email</a>.
 
 
 
