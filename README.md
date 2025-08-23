@@ -79,7 +79,7 @@ npm start
 
 ## 🙋‍♂️ Contact
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sarang-lakadkar/) or via <a href="mailto:lakadkarsarang@gmail.com">Email</a>
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sarang-lakadkar/)
 
 
 
