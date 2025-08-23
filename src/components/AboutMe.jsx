@@ -25,7 +25,7 @@ function AboutMe() {
           <div className="buttonWrapper">
             <button className="downloadResume">
               <a
-                href="https://drive.google.com/file/d/13XqYRiDp50YV1Gnfsd6LNXIT8TeLHWuC/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1tr9iYHSGZf4-PmhTQUl0PrqqBEucUKus/view?usp=drive_link"
                 target="_blank"
                 rel="noopener noreferrer"
               >
