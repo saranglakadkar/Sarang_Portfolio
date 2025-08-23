@@ -14,8 +14,8 @@ function AboutMe() {
         <div className="about-left" data-aos="fade-right">
           <h2 className="about-title">Little About Me</h2>
           <p>
-            I’m an aspiring and passionate software developer with a strong technical foundation built through formal education and hands-on projects. My journey began in Electronics & Telecommunication engineering, but my curiosity and drive to build solutions pushed me into the world of software development—where I’ve truly found my purpose. <br></br>
-            Currently, I’m pursuing a Post Graduate Diploma in Advanced Computing at C-DAC Mumbai, where I’ve honed my skills in Java, Spring Boot, SQL, ReactJS, Node.js, .NET, and Python. I thrive in full-stack development environments, crafting responsive user interfaces and building scalable backend systems.
+            I’m an aspiring and passionate Software Developer with a strong technical foundation shaped by both formal education and hands-on projects. My journey began in Electronics & Telecommunication Engineering, but my curiosity and drive to solve problems led me into the world of software development—where I truly found my purpose. <br></br>
+            I have successfully completed my Post Graduate Diploma in Advanced Computing (PG-DAC) from C-DAC Mumbai, gaining practical expertise in Java, Spring Boot, SQL, ReactJS, Node.js, .NET, and C++. I thrive in full-stack development, building responsive user interfaces and scalable backend systems that create real impact.
           </p>
           <p className="highlighted">
             Beyond coding, I value problem-solving, teamwork, adaptability, and continuous learning. Whether I’m exploring microservice architectures, experimenting with new frameworks, or analyzing data with PowerBI, my focus remains on building impactful, user-friendly solutions. <br></br>
