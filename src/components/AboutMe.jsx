@@ -14,7 +14,7 @@ function AboutMe() {
         <div className="about-left" data-aos="fade-right">
           <h2 className="about-title">Little About Me</h2>
           <p>
-            I’m an aspiring and passionate software developer with a strong technical foundation built through formal education and hands-on projects. My journey began in mechanical engineering, but my curiosity and drive to build solutions pushed me into the world of software development—where I’ve truly found my purpose. <br></br>
+            I’m an aspiring and passionate software developer with a strong technical foundation built through formal education and hands-on projects. My journey began in Electronics &Telecommunication engineering, but my curiosity and drive to build solutions pushed me into the world of software development—where I’ve truly found my purpose. <br></br>
             Currently, I’m pursuing a Post Graduate Diploma in Advanced Computing at C-DAC Mumbai, where I’ve honed my skills in Java, Spring Boot, SQL, ReactJS, Node.js, .NET, and Python. I thrive in full-stack development environments, crafting responsive user interfaces and building scalable backend systems.
           </p>
           <p className="highlighted">
